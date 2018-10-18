@@ -30,6 +30,7 @@ namespace Ricepot
                     System.Console.Write("Hello World!");
                 }
                 Thread.Sleep(200);
+                //밥솥 
             }
         }
     }
