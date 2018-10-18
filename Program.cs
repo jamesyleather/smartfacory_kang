@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 
 namespace Ricepot
 {
