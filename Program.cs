@@ -17,6 +17,8 @@ namespace Ricepot
             ConsoleColor.Red, ConsoleColor.Yellow, ConsoleColor.Green,
             ConsoleColor.Magenta, ConsoleColor.Gray };
 
+            System.Console.WriteLine("Git Hub");
+
             while (true)
             {
                 Console.Clear();
