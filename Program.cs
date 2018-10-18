@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
-using System.IO;
+
 
 namespace Ricepot
 {
@@ -18,8 +18,6 @@ namespace Ricepot
             ConsoleColor.Red, ConsoleColor.Yellow, ConsoleColor.Green,
             ConsoleColor.Magenta, ConsoleColor.Gray };
 
-            System.Console.WriteLine("Git Hub");
-
             while (true)
             {
                 Console.Clear();
@@ -30,7 +28,8 @@ namespace Ricepot
                     System.Console.Write("Hello World!");
                 }
                 Thread.Sleep(200);
-                //밥솥 
+                //make ricepot
+            
             }
         }
     }
